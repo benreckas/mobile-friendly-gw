@@ -1,1 +1,33 @@
-@import url("../fonts/glyphicons-halflings-regular.woff2");
+body {
+  padding: 50px;
+}
+
+/* All direct children of an element with a class of .row */
+.row > * {
+  height: 100px;
+  border: 1px solid black;
+}
+
+header {
+  background: dodgerblue;
+}
+
+nav {
+  background: limegreen;
+}
+
+article {
+  background: rebeccapurple;
+}
+
+aside {
+  background: yellow;
+}
+
+.promo {
+  background: orange;
+}
+
+footer {
+  background: teal;
+}
