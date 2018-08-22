@@ -12,7 +12,7 @@ space it would normally take up will remain.
 Bootstrap Components are pieces of reusable code that you can bring in to your project
 to augment or add something to your content.
 
-Here's a link to the all of the [Bootstrap Components in 3.3.7][https://getbootstrap.com/docs/3.3/components/]
+Here's a link to the all of the [Bootstrap Components in 3.3.7](https://getbootstrap.com/docs/3.3/components/)
 
 #### Glyphicons
 
