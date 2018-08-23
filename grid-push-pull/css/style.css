@@ -1,0 +1,36 @@
+@import url('../fonts/glyphicons-halflings-regular.woff2');
+
+body {
+  padding: 50px;
+}
+
+/* All direct children of an element with a class of .row */
+.row > * {
+  border: 1px solid black;
+  background: lightyellow;
+}
+
+.row > *::after {
+  content: '🌮';
+  font-size: 3em;
+}
+
+.row {
+  margin-bottom: 20px;
+}
+
+.tomato {
+  background: tomato;
+}
+
+.tomato::after {
+  content: '🍅';
+}
+
+.avocado {
+  background: lightgreen;
+}
+
+.avocado::after {
+  content: '🥑';
+}
