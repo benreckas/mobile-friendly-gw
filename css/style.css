@@ -1,1 +1,43 @@
 @import url("../fonts/glyphicons-halflings-regular.woff2");
+
+/* .navbar-brand {
+  width: 100px;
+  height: 100px;
+}
+
+.navbar {
+  height: 100px;
+  border-radius: 0;
+}
+
+.nav {
+  position: relative;
+  top: 30px;
+}
+
+.nav-pills > li {
+  margin-right: 20px;
+}
+
+.nav li:last-child {
+  margin-right: 0;
+}
+
+.dropdown-menu {
+  left: auto;
+  right: 0;
+} */
+
+.jumbotron {
+  margin-top: 50px;
+}
+
+.well {
+  height: 200px;
+}
+
+@media screen and (max-width: 991px) {
+  .container-fluid .jumbotron {
+    border-radius: 0;
+  }
+}
