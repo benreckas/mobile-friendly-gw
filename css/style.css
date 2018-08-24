@@ -1,1 +1,30 @@
 @import url("../fonts/glyphicons-halflings-regular.woff2");
+@import url("https://fonts.googleapis.com/css?family=Kosugi+Maru|Lato:300,400,700");
+
+/* p {
+  font-size: 3em;
+  font-family: 'Lato', sans-serif;
+}
+
+.block {
+  width: 100px;
+  height: 100px;
+  background: blue;
+}
+
+.two {
+  background: red;
+}
+
+.ex {
+  height: 100px;
+  background: red;
+} */
+
+body {
+  padding: 20px;
+}
+
+.well {
+
+}
