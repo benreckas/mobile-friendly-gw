@@ -32,5 +32,13 @@ body {
 }
 
 .avocado::after {
-  content: '🥑';
+  content: '💸';
+}
+
+.test::before {
+  content: '💩'
+}
+
+.test::after {
+  content: '🐍'
 }
