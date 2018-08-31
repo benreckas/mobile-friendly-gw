@@ -36,13 +36,16 @@ body {
   min-height: 100px;
 }
 
+header {
+  padding: 5px 20px;
+}
+
 .navbar-brand {
   height: 40px;
   width: 100px;
-  margin: 5px 0 0 15px;
   border-radius: 5px;
 }
 
-.nav {
-  margin-top: 5px;
+#carousel-example-generic {
+  border-radius: 50%;
 }
